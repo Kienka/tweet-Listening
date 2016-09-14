@@ -11,11 +11,10 @@ import collections
 from random import randint
 
 
-
-access_token = "550670343-h0G1s6ZhiHTIHPE7UF4dhAj9A6Jv50SMnKtkMuxb"
-access_token_secret = "QpugVRa9KF45CQL8DC938q4PTySc7X1wTTES8UJweARVr"
-consumer_key = "UJUecQPD1PihK86rY2dlD64kF"
-consumer_secret = "cWgMpSHqNhXyQN2lyi3ObLGITUlHoLcUhxBd0UuGPx4bE00ttl"
+access_token = "XXXXX"
+access_token_secret = "XXXXX"
+consumer_key = "XXXXXX"
+consumer_secret = "XXXXXXXX"
 
 class StdOutListener(StreamListener):
 
